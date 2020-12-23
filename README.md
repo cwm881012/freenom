@@ -316,17 +316,17 @@ $ cd /data/wwwroot/freenom/ && php run
 
 ![每一次你花的钱都是在为你想要的世界投票。](https://s2.ax1x.com/2020/01/31/13P8cF.jpg)
 
-**你的star或者小额打赏是我长期维护此项目的动力所在，由衷感谢每一位支持者，“每一次你花的钱都是在为你想要的世界投票”。**
+**你的star或者小额打赏是我长期维护此项目的动力所在，由衷感谢每一位支持者，“每一次你花的钱都是在为你想要的世界投票”。***
 
 ### 📋  捐赠名单 Donate List 
-非常感谢「 [这些用户](https://github.com/luolongfei/freenom/wiki/Donate-List) 」对本项目的捐赠支持！！
+非常感谢「 [这些用户](https://github.com/luolongfei/freenom/wiki/Donate-List) 」对本项目的捐赠支持！！  
 
 ### 🌚  作者 
-- 主程序以及框架：[@luolongfei](https://github.com/luolongfei)
+- 主程序以及框架：[@luolongfei](https://github.com/luolongfei)   
 - 英文版文档：[@肖阿姨](#)
 
 ### 🎉  鸣谢 
-- [PHPMailer](https://github.com/PHPMailer/PHPMailer/) （邮件发送功能依赖此库）
+- [PHPMailer](https://github.com/PHPMailer/PHPMailer/) （邮件发送功能依赖此库）     
 - [guzzle](https://github.com/guzzle/guzzle) （Curl库）
 
 ### 🥝  开源协议
