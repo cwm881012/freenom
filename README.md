@@ -321,7 +321,7 @@ $ cd /data/wwwroot/freenom/ && php run
 ### 📋  捐赠名单 Donate List 
 非常感谢「 [这些用户](https://github.com/luolongfei/freenom/wiki/Donate-List) 」对本项目的捐赠支持！！  
 
-### 🌚  作者 
+### 🌚  作者 作者
 - 主程序以及框架：[@luolongfei](https://github.com/luolongfei)   
 - 英文版文档：[@肖阿姨](#)
 
